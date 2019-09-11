@@ -1,0 +1,6 @@
+.*
+
+JOBS_RESULTS/
+supplementary/
+
+!.gitignore
